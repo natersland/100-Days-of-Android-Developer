@@ -1,6 +1,6 @@
 # 100 Days of Android Developer 
 ![Cover](/Pictures/cover.gif "Cover")
-100 Days of Android Developer is an challenge project I want to capture the moment that I learn to be an andriod developer for the next 100 days from scracth with no experience and knowlage about this path. I am commited to take this challenge for improve my skills, make learning habit, and push my boundaries.
+100 Days of Android Developer is an challenge project I want to capture the moment that I learn to be an andriod developer for the next 100 days from scratch with no experience and knowlage about this path. I am commited to take this challenge for improve my skills, make learning habit, and push my boundaries.
 
 #### My Daily Quest
 1. Code a minimum of an hour every day (except saturday or sunday) for the next 100 days. (Work hours is not included)
