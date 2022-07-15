@@ -1,7 +1,4 @@
-## Day 1
-<p>
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
-</P>
+## Day 1 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
 - Solved Kotlin Programming Challenges
   - Tax Calculator
   - Letter Counter
