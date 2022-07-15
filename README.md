@@ -9,6 +9,7 @@
 1. If I break the streak, I will make sure that I won't break it the next day.
 2. If I have an emergencies day I will take a day off.
 ## Day 1 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
+Date: 16/07/2022
 - Solved Kotlin Programming Challenges
   - Tax Calculator
   - Letter Counter
