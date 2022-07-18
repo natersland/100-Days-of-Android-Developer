@@ -25,5 +25,5 @@ Date: 18/07/2022
 - Learned Kotlin
   - Classes and Objects
   - OOP
-- <a href="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png">Archived Kotlin Certification</a>, Sololearn
-![Kotlin Certification](https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png "Cover")
+- Archived <a href="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png">Kotlin Certificate</a>, Sololearn
+![Kotlin Certificate](https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png "Cover")
