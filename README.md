@@ -18,3 +18,12 @@ Date: 16/07/2022
 - Learned Kotlin
   - Functions
   - Lambdas and Higher-order Functions
+## Day 2 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
+Date: 18/07/2022
+- Solved Kotlin Programming Challenges
+  - Music Player
+- Learned Kotlin
+  - Classes and Objects
+  - OOP
+- Archived Kotlin Certification, Sololearn: https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png
+![Kotlin Certification](https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png "Cover")
