@@ -28,5 +28,6 @@ Date: 18/07/2022
 - Practice to be familar with Android Studio
   - Make my first andriod app <a href="https://github.com/natersland/Andriod-Fantasy-V1---Counter-App.git">Android Fantasy v1 - Counter App</a>
 - Archived <a href="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png">Kotlin Certificate</a>, Sololearn
-![Kotlin Certificate](https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png "Cover")
-![previewImage](/Pictures/andriod-fantasyv1.png "previewImage")
+<img src="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png" alt="KotlinCertificate"/>
+<img src="./Pictures/andriod-fantasyv1.png" alt="previewImg" width="300"/ display="inline">
+
