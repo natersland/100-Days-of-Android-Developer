@@ -32,7 +32,7 @@ Date: 18/07/2022
 <img src="./Pictures/andriod-fantasyv1.png" alt="previewImg" width="300"/ display="inline">
 
 
-## Day 3 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> 
+## Day 3 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-4A4E51?logo=bash&logoColor=white&style=flat" /> 
 Date: 19/07/2022
 - Solved Kotlin Programming Challenges
   - Self-Grading Quiz
