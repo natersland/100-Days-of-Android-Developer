@@ -30,4 +30,12 @@ Date: 18/07/2022
 - Archived <a href="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png">Kotlin Certificate</a>, Sololearn
 <img src="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png" alt="KotlinCertificate"/>
 <img src="./Pictures/andriod-fantasyv1.png" alt="previewImg" width="300"/ display="inline">
-
+## Day 3 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> 
+Date: 19/07/2022
+- Solved Kotlin Programming Challenges
+  - Self-Grading Quiz
+- Learned Kotlin
+  - Anatomy of an Andriod App
+  - Kotlin Fundamentals
+    - Nullables In Kotlin
+    - Nullables - Elvis Operator - Not Null Assertion
