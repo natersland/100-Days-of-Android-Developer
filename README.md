@@ -43,4 +43,7 @@ Date: 19/07/2022
     - Nullables - Elvis Operator - Not Null Assertion
 - Learned Version Control
     - Unix Commands
+      - Pipes
+      - Redirection
+      - Grep
       
