@@ -41,3 +41,6 @@ Date: 19/07/2022
   - Kotlin Fundamentals
     - Nullables In Kotlin
     - Nullables - Elvis Operator - Not Null Assertion
+- Learned Version Control
+    - Unix Commands
+      
