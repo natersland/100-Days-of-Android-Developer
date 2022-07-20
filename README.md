@@ -47,3 +47,10 @@ Date: 19/07/2022
       - Redirection
       - Grep
       
+## Day 4 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-41A0F8?logo=IntelliJIDEA&logoColor=white&style=flat" />
+Date: 20/07/2022
+- Solved Kotlin Programming Challenges
+  - Self-Grading Quiz
+- Learned Professional Android Development
+  - Android Devices
+  - Developing for Android
