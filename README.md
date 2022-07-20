@@ -50,7 +50,8 @@ Date: 19/07/2022
 ## Day 4 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-41A0F8?logo=IntelliJIDEA&logoColor=white&style=flat" /> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" />
 Date: 20/07/2022
 - Solved Kotlin Programming Challenges
-  - Self-Grading Quiz
+  - Kotlin 500 Challenge | Data Structure
+  - Kotlin 500 Challenge | Problems
 - Learned Professional Android Development
   - Android Devices
   - Developing for Android
