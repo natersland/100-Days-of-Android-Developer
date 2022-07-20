@@ -55,7 +55,7 @@ Date: 20/07/2022
 - Learned Professional Android Development
   - Android Devices
   - Developing for Android
-- Version Control
+- Learned Version Control
   - Working with Git
     - Resolving conflicts
     - HEAD
