@@ -29,7 +29,7 @@ Date: 18/07/2022
   - Make my first andriod app <a href="https://github.com/natersland/Andriod-Fantasy-V1---Counter-App.git">Android Fantasy v1 - Counter App</a>
 - Archived <a href="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png">Kotlin Certificate</a>, Sololearn
 <img src="https://www.sololearn.com/certificates/course/en/18122496/1160/landscape/png" alt="KotlinCertificate"/>
-<img src="./Pictures/andriod-fantasyv1.png" alt="previewImg" width="300"/ display="inline">
+<img src="./Pictures/andriod-fantasyv1.png" alt="previewImg" width="300" display="inline">
 
 
 ## Day 3 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-4A4E51?logo=bash&logoColor=white&style=flat" /> 
@@ -62,3 +62,14 @@ Date: 20/07/2022
     - Diff commands
     - Blame
 
+## Day 5 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
+Date: 21/07/2022
+- Solved Kotlin Programming Challenges
+  - Login System
+- Learned Kotlin
+  - Null Safety 
+  - File Management
+  - Collection 
+    - Hashmap
+- Certificated: <a href="https://www.coursera.org/account/accomplishments/verify/W8N5S5VD5T65">Version Control</a>, Meta
+<img src="./Pictures/MetaVersionControlCert.png" alt="Meta Certificated"/>
