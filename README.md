@@ -72,4 +72,4 @@ Date: 21/07/2022
   - Collection 
     - Hashmap
 - Certificated: <a href="https://www.coursera.org/account/accomplishments/verify/W8N5S5VD5T65">Version Control</a>, Meta
-<img src="./Pictures/MetaVersionControlCert.png" alt="Meta Certificated"/>
+<img src="https://github.com/natersland/100-Days-of-Android-Developer/blob/main/Pictures/MetaVersionControlCert.PNG?raw=true" alt="Meta Certificated"/>
