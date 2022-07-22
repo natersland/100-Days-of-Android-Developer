@@ -51,7 +51,7 @@ Date: 19/07/2022
 Date: 20/07/2022
 - Solved Kotlin Programming Challenges
   - Kotlin 500 Challenge | Data Structure
-  - Kotlin 500 Challenge | Problems
+  - Kotlin 500 Challenge | IF-ELSE
 - Learned Professional Android Development
   - Android Devices
   - Developing for Android
@@ -73,3 +73,14 @@ Date: 21/07/2022
     - Hashmap
 - Certificated: <a href="https://www.coursera.org/account/accomplishments/verify/W8N5S5VD5T65">Version Control</a>, Meta
 <img src="https://github.com/natersland/100-Days-of-Android-Developer/blob/main/Pictures/MetaVersionControlCert.PNG?raw=true" alt="Meta Certificated" width="800"/>
+
+## Day 6 | <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat" />
+Date: 22/07/2022
+- Solved Kotlin Programming Challenges
+  - Doraemon Text Editor
+  - Kotlin 500 Challenge | IF-ELSE
+- Read Article
+  - <a href="https://medium.com/codex/kotlins-most-powerful-tool-1265732544ad">Do you use Kotlin’s most powerful tool?
+  - <a href="https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac">MVC, MVP, MVI, MVVM and VIPER Design Patterns
+  - <a href="https://betterprogramming.pub/my-top-7-most-underrated-intellij-idea-features-572b0b706bd6">My Top 7 Most Underrated IntelliJ IDEA Features
+</a>
